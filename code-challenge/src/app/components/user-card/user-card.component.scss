@@ -1,0 +1,13 @@
+.user-card {
+  margin: 1rem;
+  max-width: 300px;
+  width: 100%;
+
+  mat-card-content {
+    p {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+  }
+}
